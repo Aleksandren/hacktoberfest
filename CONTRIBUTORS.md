@@ -621,6 +621,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Network specialist, code n00b
 - Github: [Daniel Tudares](https://github.com/dan1eltudares)
 
+#### Name: [Aleksandren](https://github.com/Aleksandren)
+- Place: Minsk, Belarus
+- Bio: Python developer
+- Github: [Aleksandren](https://github.com/Aleksandren)
+
 #### Name: [Darsh Naik](https://github.com/DarshNaik)
 - Place: India
 - Bio: Computer Engineering student
